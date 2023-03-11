@@ -1,20 +1,3 @@
-index = 0
-
-while index < 6:
-    print("Ještě nemáš 6, ale ", index, ",""," ", pokračuji..", sep="")
-    index = index + 1
-
-print("Hotovo, máš 6!")
-
-index = 0
-k = []
-
-i = []
-for k in range(5):
-    i.append(k)
-print(i)
-
-index = 0
 
 # while index <= 20:
 #     if len(str(index)) != 2:
@@ -81,8 +64,8 @@ index = 0
 #     if hodnota > 200_000:
 #         velka_mesta[klic.upper()] = hodnota
 
-arr1 = [5,1,4,2,8]
-arr2 = [1,2,3,4,5]
+# arr1 = [5,1,4,2,8]
+# arr2 = [1,2,3,4,5]
 
 # print(arr1 == sorted(arr1))
 
@@ -98,8 +81,8 @@ arr2 = [1,2,3,4,5]
 #     print("Sorted")
 
 
-#Bubble sort function:
-arr=arr1
+# #Bubble sort function:
+# arr=arr1
 # n = len(arr)
 # for i in range(n-1):
 #     print((i), "0....", n-i-1)
@@ -118,29 +101,67 @@ arr=arr1
 
 #### dalsi razeni
 
-
-arr = [85, 12, 59, 45, 72, 51]
-
-# rozdelit na sorte/ unsorted
-
-[]
-
-if (n:=len(arr))>1:
-    for i in range(1,n):
-        v = arr[i] # frist value == 12
-        print(v)
-        j = i - 1   #hranice
-        while j>=0 and v < arr[j]:
-            arr[j+1] = arr[j]
-            j = j-1
-        arr[j+1] = v
-        print(v)
-        print(arr, "Sorrted")
-
-
+#
+# arr = [85, 12, 59, 45, 72, 51]
+#
+# # rozdelit na sorte/ unsorted
+#
+# []
+#
+# if (n:=len(arr))>1:
+#     for i in range(1,n):
+#         v = arr[i] # frist value == 12
+#         print(v)
+#         j = i - 1   #hranice
+#         while j>=0 and v < arr[j]:
+#             arr[j+1] = arr[j]
+#             j = j-1
+#         arr[j+1] = v
+#         print(v)
+#         print(arr, "Sorrted")
 
 
+# arr  = [29, 72, 98, 13, 87, 66, 52, 51, 36]
+#
+# []
+#
+# ind = 0 # zacatek neserazene casti
+#
+# for ind in range (len(arr)):
+#     min_index = ind
+#     for j in range(ind+1,len(arr)):
+#         if arr[j] < arr[min_index]: #13<29
+#             min_index = j #
+#     arr[ind], arr[min_index] = arr[min_index], arr[ind]
+#     print(arr)
 
+arr = [1,2,3,4]
+
+n = len(arr)
+sums = []
+soucet = 0
+for i in arr:
+    soucet = soucet + i
+    sums.append(soucet)
+    print(soucet)
+print(soucet)
+
+X = [[1,2],
+     [3,4]
+]
+
+Y = [[5,6],
+     [7,8]
+]
+
+print(X,Y)
+
+result = [[0,0],[0,0]]
+for i in range(len(X)):
+    for j in range(len(Y)):
+        for k in range(2):
+            result [i][j] +=X[i][k] * Y[k][j]
+print(result)
 
 
 
