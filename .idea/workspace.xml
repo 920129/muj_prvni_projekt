@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40215e0d-3ac9-4a28-8c3c-fd5f76916801" name="Changes" comment="Matice">
-      <change afterPath="$PROJECT_DIR$/Lekce 9.py" afterDir="false" />
+    <list default="true" id="40215e0d-3ac9-4a28-8c3c-fd5f76916801" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Cyklus while.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/git.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/While_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/While_2.py" afterDir="false" />
     </list>
@@ -47,14 +49,6 @@
       <option name="presentableId" value="Default" />
       <updated>1677933784452</updated>
     </task>
-    <task id="LOCAL-00001" summary="Matice">
-      <created>1678536945611</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1678536945611</updated>
-    </task>
-    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -67,9 +61,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Matice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Matice" />
   </component>
 </project>
