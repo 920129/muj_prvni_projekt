@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ab66b88-025b-490f-9ab6-65fb1e0eb6ca" name="Changes" comment="First commit lesson 11">
+    <list default="true" id="2ab66b88-025b-490f-9ab6-65fb1e0eb6ca" name="Changes" comment="First commit lesson 11 -pokracovani">
+      <change afterPath="$PROJECT_DIR$/prvni_json_soubor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prvni_tabulkovy_soubor.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/git.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/git.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -43,12 +45,16 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NeKIAW0FOQWtKXMaZW1gewFbXk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "settings.editor.selected.configurable": "preferences.pluginManager"
@@ -77,11 +83,20 @@
       <option name="project" value="LOCAL" />
       <updated>1680019880240</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First commit lesson 11 -pokracovani">
+      <created>1680020896502</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680020896502</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First commit lesson 11" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit lesson 11" />
+    <MESSAGE value="First commit lesson 11 -pokracovani" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit lesson 11 -pokracovani" />
   </component>
 </project>
